@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>1A207840-528F-4E9F-88D6-37107C47FA25</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M44.084901,1.19063251 C59.0104194,5.19123938 70,18.8122428 70,35 C70,54.3299661 54.3299661,70 35,70" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35" height="68.8093675" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M35,50 L35,50 C26.7157288,50 20,43.2842712 20,35 C20,26.7157288 26.7157288,20 35,20 C43.2842712,20 50,26.7157288 50,35 C50,43.2842712 43.2842712,50 35,50 L35,50 L35,50 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_desktop_new" transform="translate(-286.000000, -8146.000000)">
+            <g id="05" transform="translate(0.000000, 7690.000000)">
+                <g id="Group-2" transform="translate(145.000000, 456.000000)">
+                    <g id="agile" transform="translate(90.000000, 0.000000)">
+                        <g transform="translate(51.000000, 0.000000)">
+                            <polygon id="Line" fill="#5E6064" fill-rule="nonzero" points="65 68 34.5 68 34.5 70 65 70"></polygon>
+                            <path d="M34,68 L32,68 L32,70 L34,70 L34,68 Z M30,68 L28,68 L28,70 L30,70 L30,68 Z M26,68 L24,68 L24,70 L26,70 L26,68 Z M22,68 L20,68 L20,70 L22,70 L22,68 Z M18,68 L16,68 L16,70 L18,70 L18,68 Z M14,68 L12,68 L12,70 L14,70 L14,68 Z M10,68 L8,68 L8,70 L10,70 L10,68 Z M6,68 L4,68 L4,70 L6,70 L6,68 Z M2,68 L0,68 L0,70 L2,70 L2,68 Z" id="Line-Copy-2" fill="#5E6064" fill-rule="nonzero"></path>
+                            <circle id="Oval-57-Copy-19" stroke="#FF6300" stroke-width="2" cx="65" cy="65" r="4"></circle>
+                            <path d="M35,70 C15.6700339,70 0,54.3299661 0,35 C0,18.4244634 11.5223999,4.54012733 26.9944047,0.919786573 L27.2262505,2.92038174 C12.540951,6.46464836 2,19.6685673 2,35 C2,53.1480444 16.6494569,67.8745252 34.7681308,67.9992025 L35,70 Z" id="Shape" fill="#5E6064" fill-rule="nonzero"></path>
+                            <use id="Shape-Copy-2" stroke="#5E6064" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2,2" xlink:href="#path-1"></use>
+                            <use id="Shape-Copy" stroke="#5E6064" mask="url(#mask-4)" stroke-width="4" stroke-dasharray="2,2" xlink:href="#path-3"></use>
+                            <circle id="Oval-57-Copy-20" stroke="#FF6300" stroke-width="2" cx="35" cy="5" r="4"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

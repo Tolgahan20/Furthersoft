@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ABF93F9B-5E4A-486F-9757-559F7CD18FCE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M35,60 L35,60 C21.1928814,60 10,48.8071186 10,35 C10,21.1928814 21.1928814,10 35,10 C48.8071186,10 60,21.1928814 60,35 C60,48.8071186 48.8071186,60 35,60 L35,60 L35,60 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="50" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_desktop_new" transform="translate(-685.000000, -8373.000000)">
+            <g id="05" transform="translate(0.000000, 7690.000000)">
+                <g id="Group-2" transform="translate(145.000000, 456.000000)">
+                    <g id="management" transform="translate(497.000000, 227.000000)">
+                        <g id="tracking" transform="translate(43.000000, 0.000000)">
+                            <path d="M48.168604,2.56182188 C47.8412327,3.13824389 47.5756642,3.75435718 47.3809098,4.40115073 C43.5577771,2.85272042 39.3784703,2 35,2 C16.7746033,2 2,16.7746033 2,35 C2,53.2253967 16.7746033,68 35,68 C53.2253967,68 68,53.2253967 68,35 C68,27.2761364 65.346427,20.172048 60.901198,14.5496517 C61.4628944,14.1842534 61.9812728,13.7578693 62.4469453,13.2798872 C67.1760428,19.2478097 70,26.7941196 70,35 C70,54.3299662 54.3299662,70 35,70 C15.6700338,70 0,54.3299662 0,35 C0,15.6700338 15.6700338,0 35,0 C39.6580893,0 44.1036456,0.909962235 48.168604,2.56182188 Z" id="Combined-Shape" fill="#5E6064"></path>
+                            <path d="M56,10 C57.6568542,10 59,8.65685425 59,7 C59,5.34314575 57.6568542,4 56,4 C54.3431458,4 53,5.34314575 53,7 C53,8.65685425 54.3431458,10 56,10 Z M56,12 C53.2385763,12 51,9.76142375 51,7 C51,4.23857625 53.2385763,2 56,2 C58.7614237,2 61,4.23857625 61,7 C61,9.76142375 58.7614237,12 56,12 Z" id="Oval-57-Copy-19" fill="#FF6300" fill-rule="nonzero"></path>
+                            <use id="Shape-Copy" stroke="#5E6064" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2,2" transform="translate(35.000000, 35.000000) rotate(3.000000) translate(-35.000000, -35.000000) " xlink:href="#path-1"></use>
+                            <circle id="Oval-57-Copy-24" fill="#FF6300" cx="35" cy="35" r="5"></circle>
+                            <polygon id="Line-2" fill="#FF6300" fill-rule="nonzero" points="34 10 34 36 36 36 36 10"></polygon>
+                            <polygon id="Line-2-Copy" fill="#FF6300" fill-rule="nonzero" points="47.9138936 47.0300828 35.0300828 33.5861064 33.5861064 34.9699172 46.4699172 48.4138936"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

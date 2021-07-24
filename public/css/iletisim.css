@@ -1,0 +1,364 @@
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+@media screen and (max-width:450px) {
+    .price {
+        visibility: hidden;
+    }
+}
+
+.contact {
+    padding: 80px 0;
+}
+
+.contact .heading h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.contact .heading h2 span {
+    color: #0b1f3c;
+    font-weight: bold !important;
+}
+
+.contact .heading p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #999999;
+    margin: 20px 0 60px;
+    padding: 0;
+}
+
+.contact .form-control {
+    padding: 20px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border: 0;
+    border-radius: 10px;
+}
+
+.contact button.btn {
+    width: 50%;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #0b1f3c;
+    color: #ffffff;
+    transition: all .5s;
+}
+
+.contact button.btn:hover {
+    padding: 10px;
+    border-radius: 10px;
+    background: #ffffff;
+    color: #0b1f3c;
+}
+
+.contact .title h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.contact .title p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+    line-height: 1.6;
+    margin: 0 0 40px;
+}
+
+.contact .content .info {
+    margin-top: 30px;
+}
+
+.contact .content .info i {
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    color: #02434b;
+    margin-right: 20px;
+    text-align: center;
+    width: 20px;
+}
+
+.contact .content .info h4 {
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.contact .content .info h4 span {
+    font-size: 13px;
+    font-weight: 300;
+    color: #999999;
+}
+
+
+/*CHECKBOXES*/
+
+[tabindex="-1"]:focus {
+    outline: 0 !important;
+}
+
+.ftco-section {
+    padding: 7em 0;
+}
+
+.ftco-no-pt {
+    padding-top: 0;
+}
+
+.ftco-no-pb {
+    padding-bottom: 0;
+}
+
+.heading-section {
+    font-size: 28px;
+    color: #000;
+}
+
+.heading-section small {
+    font-size: 18px;
+}
+
+ul.ks-cboxtags {
+    list-style: none;
+    padding: 20px;
+}
+
+ul.ks-cboxtags li {
+    display: inline-block;
+}
+
+ul.ks-cboxtags li label {
+    display: inline-block;
+    background-color: #071630;
+    border: 1px solid rgba(139, 139, 139, 0.3);
+    color: #FFFFFF;
+    border-radius: 25px;
+    white-space: nowrap;
+    font-size: 13px;
+    margin: 3px 0px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    font-weight: 400;
+}
+
+ul.ks-cboxtags li label {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+ul.ks-cboxtags li label::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "FontAwesome";
+    font-weight: 400;
+    font-size: 12px;
+    padding: 2px 6px 2px 2px;
+    content: "\f067";
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+    transition: -webkit-transform .3s ease-in-out;
+    -o-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+
+ul.ks-cboxtags li input[type="checkbox"]:checked+label::before {
+    content: "\f00c";
+    -webkit-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+    transition: -webkit-transform .3s ease-in-out;
+    -o-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+
+ul.ks-cboxtags li input[type="checkbox"]:checked+label {
+    border: 1px solid #1E3E5B;
+    background-color: #1E3E5B;
+    color: #fff;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}
+
+ul.ks-cboxtags li input[type="checkbox"] {
+    opacity: 0;
+}
+
+.fa-ellipsis-h {
+    color: white;
+    padding: 2rem 0;
+}
+
+.icons {
+    color: #071630 !important;
+}
+
+
+/*SLİDER*/
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    background: transparent;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.crange {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border-radius: 0.6rem;
+    background-color: transparent;
+    transition: all 0.3s ease-in-out;
+    border: 0.1rem solid rgba(15, 31, 77, 0.1);
+    box-shadow: 0 0.5rem 1.2rem rgba(15, 31, 77, 0.1);
+    width: 100%;
+}
+
+.crange--label {
+    font-size: 20px;
+    margin: 0.5rem 0 1rem;
+    color: #FFFFFF;
+}
+
+.crange__bmc {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 4px;
+    font-size: 16px;
+    color: #FFFFFF
+}
+
+.crange__bmc--step {
+    flex: 0 1 20.5%;
+    border-right: 1px solid #e7e8ec;
+    text-align: right;
+    height: 5.2rem;
+}
+
+.crange__bmc--step:last-of-type {
+    border-right: 0;
+}
+
+.crange--input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+    color: #FFFFFF;
+    height: 1rem;
+    transition: all 0.2s ease-in;
+    border-radius: 1rem;
+}
+
+.crange--input::-webkit-slider-thumb {
+    position: relative;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 3.4rem;
+    height: 3.4rem;
+    background: #071630;
+    cursor: pointer;
+    border-radius: 50%;
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    box-shadow: -0.1rem 0 0.2rem 0 rgba(15, 31, 77, 0.3);
+}
+
+.crange--input::-webkit-slider-thumb:hover {
+    background-color: #1E3E5B;
+}
+
+.crange--input::-moz-range-thumb {
+    width: 1.4rem;
+    height: 1.4rem;
+    background: #071630;
+    cursor: pointer;
+    border-radius: 50%;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    backface-visibility: hidden;
+    box-shadow: -0.1rem 0 0.2rem 0 rgba(15, 31, 77, 0.3);
+}
+
+.crange--input::-moz-range-thumb:hover {
+    background-color: #1E3E5B;
+}
+
+.crange--money {
+    margin: 1.5rem 0 0.5rem;
+    color: #FFFFFF;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    font-size: 12px;
+}
+
+.animate {
+    -webkit-animation: animate 0.4s ease-in both;
+    animation: animate 0.4s ease-in both;
+}
+
+
+/*NAVBAR ANIMATION*/
+
+a.middle {
+    position: relative;
+}
+
+a.middle:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px !important;
+    bottom: 5px;
+    left: 0;
+    background-color: #FFF;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+a.middle:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+}

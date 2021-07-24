@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>5F14CA6C-C4C4-4AC4-8913-CAD9D8EB2014</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M0,0 L70,0 L70,70 L0,70 L0,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_desktop_new" transform="translate(-1085.000000, -8373.000000)">
+            <g id="05" transform="translate(0.000000, 7690.000000)">
+                <g id="Group-2" transform="translate(145.000000, 456.000000)">
+                    <g id="assist" transform="translate(917.000000, 227.000000)">
+                        <g id="Scalability" transform="translate(23.000000, 0.000000)">
+                            <use id="Rectangle-9" stroke="#5E6064" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2,2" xlink:href="#path-1"></use>
+                            <path d="M50.2928932,18.2928932 L48.8786797,19.7071068 L50.2928932,21.1213203 L51.7071068,19.7071068 L50.2928932,18.2928932 Z M47.4644661,21.1213203 L46.0502525,22.5355339 L47.4644661,23.9497475 L48.8786797,22.5355339 L47.4644661,21.1213203 Z M44.636039,23.9497475 L43.2218254,25.363961 L44.636039,26.7781746 L46.0502525,25.363961 L44.636039,23.9497475 Z M41.8076118,26.7781746 L40.3933983,28.1923882 L41.8076118,29.6066017 L43.2218254,28.1923882 L41.8076118,26.7781746 Z M38.9791847,29.6066017 L37.5649712,31.0208153 L38.9791847,32.4350288 L40.3933983,31.0208153 L38.9791847,29.6066017 Z M36.1507576,32.4350288 L34.736544,33.8492424 L36.1507576,35.263456 L37.5649712,33.8492424 L36.1507576,32.4350288 Z M33.3223305,35.263456 L31.9081169,36.6776695 L33.3223305,38.0918831 L34.736544,36.6776695 L33.3223305,35.263456 Z M30.4939033,38.0918831 L29.2928932,39.2928932 L30.7071068,40.7071068 L31.9081169,39.5060967 L30.4939033,38.0918831 Z" id="Line" fill="#5E6064" fill-rule="nonzero"></path>
+                            <path d="M2,68 L28,68 L28,42 L2,42 L2,68 Z M0,40 L30,40 L30,70 L0,70 L0,40 Z" id="Rectangle-9-Copy" fill="#FF6300" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-9-Copy-2" fill="#FF6300" x="50" y="10" width="10" height="10"></rect>
+                            <path d="M12,58 L18,58 L18,52 L12,52 L12,58 Z M10,50 L20,50 L20,60 L10,60 L10,50 Z" id="Rectangle-9-Copy-3" fill="#5E6064" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

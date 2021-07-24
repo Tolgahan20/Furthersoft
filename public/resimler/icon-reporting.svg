@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>D0C0705E-068B-43E1-814B-7405EBD340BA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M0,0 L70,0 L70,70 L0,70 L0,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="70" height="70" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_desktop_new" transform="translate(-285.000000, -8373.000000)">
+            <g id="05" transform="translate(0.000000, 7690.000000)">
+                <g id="Group-2" transform="translate(145.000000, 456.000000)">
+                    <g id="delivery" transform="translate(0.000000, 227.000000)">
+                        <g id="account-management" transform="translate(140.000000, 0.000000)">
+                            <use id="Rectangle-9" stroke="#5E6064" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2,2" xlink:href="#path-1"></use>
+                            <path d="M55,18 C56.6568542,18 58,16.6568542 58,15 C58,13.3431458 56.6568542,12 55,12 C53.3431458,12 52,13.3431458 52,15 C52,16.6568542 53.3431458,18 55,18 Z M55,20 C52.2385763,20 50,17.7614237 50,15 C50,12.2385763 52.2385763,10 55,10 C57.7614237,10 60,12.2385763 60,15 C60,17.7614237 57.7614237,20 55,20 Z" id="Oval-57-Copy-19" fill="#FF6300" fill-rule="nonzero"></path>
+                            <path d="M50,20 C43,27 36.8333333,32 31.5,35 C26.1666667,38 18.8333333,39.5 9.5,39.5" id="Line" stroke="#5E6064" stroke-width="2" stroke-dasharray="2,2"></path>
+                            <path d="M52,32 L52,58 L58,58 L58,32 L52,32 Z M50,30 L60,30 L60,60 L50,60 L50,30 Z" id="Rectangle-9-Copy" fill="#FF6300" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-9-Copy-2" fill="#FF6300" x="10" y="10" width="10" height="10"></rect>
+                            <path d="M12,58 L18,58 L18,52 L12,52 L12,58 Z M10,50 L20,50 L20,60 L10,60 L10,50 Z" id="Rectangle-9-Copy-3" fill="#5E6064" fill-rule="nonzero"></path>
+                            <path d="M32,47 L32,58 L38,58 L38,47 L32,47 Z M30,45 L40,45 L40,60 L30,60 L30,45 Z" id="Rectangle-9-Copy-6" fill="#5E6064" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
