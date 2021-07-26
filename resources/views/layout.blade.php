@@ -77,7 +77,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-4 col-sm-12 float-right mt-3">
+                <div class="col-md-4 col-sm-12 float-md-right text-sm-center mt-3">
                     <span class="copyright quick-links">Copyright &copy; FurtherSoft Inc.
                         <script>document.write(new Date().getFullYear())</script>
                     </span>

@@ -5,7 +5,7 @@
 @endsection
 
 @section('title')
-İletİşİm
+Ürünlerimiz
 @endsection
 
 
@@ -82,7 +82,7 @@ style="background: linear-gradient(90deg, #2c3e50 0%,#3498db 100% );"@endsection
     <h1 class="text-responsive-header"> Proje Fikriniz mi Var?
     </h1>
     <div class="mt-5 mb-5">
-        <a href="../iletisim/iletisim.html" target="_blank" class="buttona buttons text-responsive ">Bizimle İletişime Geç</a>
+        <a href="{{url('iletisim')}}" target="_blank" class="buttona buttons text-responsive ">Bizimle İletişime Geç</a>
     </div>
 </section>
 </section>
